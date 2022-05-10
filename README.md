@@ -28,12 +28,18 @@
   Note : "Verify remote's new name"
 ### pull , add ,  commit, commit
 -- pull => $ git pull origin main  :-> get file from github to your machine
+
 -- add  => $ git add *
+
      * = example.html || example.css || . (add all edited files)
 
      : -> updates to a particular file in the next commit
+     
 -- commit => $ git commit -m "example.com"
+
      :-> file save into safe CSDL
+     
 -- push => $ git push orgigin main
+
      :-> push file from my machine to github
    
