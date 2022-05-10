@@ -17,5 +17,5 @@
      Note: "check example.pub exist"
    $ cat example.pub
  - Step : 6
-   Copy key and Paste "SSH keys" in your github
+   Copy key and Paste "SSH keys" in your github 
    
