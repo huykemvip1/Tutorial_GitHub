@@ -26,13 +26,18 @@
   $ git remote -v<br/>
   Note : "Verify remote's new name"
 ### pull , add ,  commit, commit
--- pull => $ git pull origin main <br/>
+-- pull => $ git pull origin main 
+
        :-> get file from github to your machine <br/>
--- add  => $ git add * <br/>
-     * = example.html || example.css || . (add all edited files)<br/> 
+-- add  => $ git add * 
+
+     * = example.html || example.css || . (add all edited files)
+     
      : -> updates to a particular file in the next commit<br/>
--- commit => $ git commit -m "example.com"<br/>
+-- commit => $ git commit -m "example.com"
+
      :-> file save into safe CSDL<br/>
--- push => $ git push orgigin main<br/>
+-- push => $ git push orgigin main
+
      :-> push file from my machine to github
    
