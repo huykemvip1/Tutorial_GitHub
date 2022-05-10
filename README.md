@@ -8,6 +8,7 @@
   Enter a file in which to save the key (/c/Users/you/.ssh/id_rsa): example
  - Step : 3
    Enter passphrase (empty for no passphrase): [Password] 
+   
    Enter same passphrase again: [Password again]
  - Step : 4
    $ eval "$(ssh-agent -s)"  
