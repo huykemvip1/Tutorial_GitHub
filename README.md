@@ -31,7 +31,7 @@
 
 -- add  => $ git add *
 
-     * = example.html || example.css || . (add all edited files)
+     * = example.html || example.css || . (add all edited files) 
 
      : -> updates to a particular file in the next commit
      
