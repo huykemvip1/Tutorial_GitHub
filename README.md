@@ -25,7 +25,7 @@
 - Step : 2
   $ git remote -v<br/>
   Note : "Verify remote's new name"
-### pull , add ,  commit, commit
+### Pull, add,  commit, commit
 -- pull => $ git pull origin main 
 
        :-> get file from github to your machine <br/>
