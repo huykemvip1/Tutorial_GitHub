@@ -32,7 +32,6 @@
 
        :-> get file from github to your machine <br/>
 -- add  => $ git add * 
->>>>>>> d20b8ce8a4401c6341317b495251fc444c9b0393
 
      * = example.html || example.css || . (add all edited files)
      
