@@ -46,3 +46,7 @@
 -- check branches
 
  => $ git branch
+
+-- delete branch
+
+=> $ git branch -d [branch_name]
