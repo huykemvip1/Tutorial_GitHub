@@ -30,6 +30,7 @@
 -- pull => $ git pull origin main  :-> get file from github to your machine
 
 -- add  => $ git add *
+
      * = example.html || example.css || . (add all edited files)
 
 ### Pull, add,  commit, commit
