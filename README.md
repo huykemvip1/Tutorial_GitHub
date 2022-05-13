@@ -26,6 +26,7 @@
   $ git remote -v<br/>
   Note : "Verify remote's new name"
 <<<<<<< HEAD
+<<<<<<< HEAD
 ### pull , add ,  commit, commit
 -- pull => $ git pull origin main  :-> get file from github to your machine
 
@@ -36,6 +37,8 @@
 >>>>>>> handle_branch
 
 =======
+=======
+>>>>>>> d20b8ce8a4401c6341317b495251fc444c9b0393
 ### Pull, add,  commit, commit
 -- pull => $ git pull origin main 
 
@@ -47,11 +50,17 @@
      : -> updates to a particular file in the next commit<br/>
 -- commit => $ git commit -m "example.com"
 
+<<<<<<< HEAD
 
      :-> file save into safe CSDL
 -- push => $ git push orgigin main
 
 
+=======
+     :-> file save into safe CSDL<br/>
+-- push => $ git push orgigin main
+
+>>>>>>> d20b8ce8a4401c6341317b495251fc444c9b0393
      :-> push file from my machine to github
 
 ### create and handle branch
