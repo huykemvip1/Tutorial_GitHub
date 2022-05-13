@@ -26,7 +26,7 @@
 - Step : 2
   $ git remote -v
   Note : "Verify remote's new name"
-# pull , add ,  commit, commit
+### pull , add ,  commit, commit
 -- pull => $ git pull origin main  :-> get file from github to your machine
 -- add  => $ git add *
      * = example.html || example.css || . (add all edited files)
@@ -36,4 +36,13 @@
      :-> file save into safe CSDL
 -- push => $ git push orgigin main
      :-> push file from my machine to github
-   
+
+### create and handle branch
+
+-- create branch 
+
+ => $ git checkout -b [branch_name]
+
+-- check branches
+
+ => $ git branch
