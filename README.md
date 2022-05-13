@@ -56,3 +56,5 @@
 -- delete branch
 
 => $ git branch -d [branch_name]
+
+Note : if have change, commit branch after checkout new branch
