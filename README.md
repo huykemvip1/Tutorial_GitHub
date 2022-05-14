@@ -66,10 +66,4 @@
 
 => $ git branch -d [branch_name]
 
-<<<<<<< HEAD
 Note : if have change, commit branch after checkout new branch
-
-hehe
-=======
-Note : if have change, commit branch before checkout new branch
->>>>>>> 31cd6150608af0805c45a9fc05dcf6c6e142dbbc
