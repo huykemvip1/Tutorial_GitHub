@@ -87,8 +87,9 @@ Note : if have change, commit branch after checkout new branch
 
 4. Switch to the head branch
 
+  ````
   > $ git checkout main
-
+````
   Note: Commit another branch before switching to another branch
 
 5. Merge the head branch with another branch
