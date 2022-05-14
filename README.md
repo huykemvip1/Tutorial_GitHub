@@ -30,6 +30,7 @@
 -- pull => $ git pull origin main  :-> get file from github to your machine
 
 -- add  => $ git add *
+
      * = example.html || example.css || . (add all edited files)
 
 ### Pull, add,  commit, commit
@@ -65,6 +66,10 @@
 
 => $ git branch -d [branch_name]
 
+<<<<<<< HEAD
 Note : if have change, commit branch after checkout new branch
 
 hehe
+=======
+Note : if have change, commit branch before checkout new branch
+>>>>>>> 31cd6150608af0805c45a9fc05dcf6c6e142dbbc
