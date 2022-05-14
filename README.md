@@ -98,10 +98,10 @@ Note : if have change, commit branch after checkout new branch
   Note: branch_name needs to be merged
 
 6. Update branch working locally
-   ``
+   `
   > $ git pull
-   ``
+   `
 7. Update file up to github
-   ``
+   `
   > $ git push origin main
-   ``
+   `
